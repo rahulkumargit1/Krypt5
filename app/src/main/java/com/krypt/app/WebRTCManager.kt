@@ -5,6 +5,7 @@ import android.util.Log
 import org.webrtc.*
 import org.webrtc.PeerConnection.RTCConfiguration
 import org.webrtc.PeerConnection.IceServer
+import org.webrtc.audio.JavaAudioDeviceModule 
 
 /**
  * Audio-only WebRTC manager.
